@@ -30,7 +30,3 @@ Analysis of customer behavior, product preferences, and transaction patterns usi
 2. **Lookalike Model**: Customer similarity recommendations
 3. **Customer Segmentation**: Clustering analysis with DB Index evaluation
 
-## Setup
-```bash
-git clone [repository-url]
-pip install -r requirements.txt
